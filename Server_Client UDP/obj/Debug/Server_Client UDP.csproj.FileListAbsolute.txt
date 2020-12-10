@@ -1,0 +1,20 @@
+C:\Users\serge\source\repos\Server_Client UDP\Server_Client UDP\bin\Debug\Server_Client UDP.exe.config
+C:\Users\serge\source\repos\Server_Client UDP\Server_Client UDP\bin\Debug\Server_Client UDP.exe
+C:\Users\serge\source\repos\Server_Client UDP\Server_Client UDP\bin\Debug\Server_Client UDP.pdb
+C:\Users\serge\source\repos\Server_Client UDP\Server_Client UDP\obj\Debug\Server_Client UDP.csprojAssemblyReference.cache
+C:\Users\serge\source\repos\Server_Client UDP\Server_Client UDP\obj\Debug\Server_Client_UDP.Server_Main.resources
+C:\Users\serge\source\repos\Server_Client UDP\Server_Client UDP\obj\Debug\Server_Client_UDP.Properties.Resources.resources
+C:\Users\serge\source\repos\Server_Client UDP\Server_Client UDP\obj\Debug\Server_Client UDP.csproj.GenerateResource.cache
+C:\Users\serge\source\repos\Server_Client UDP\Server_Client UDP\obj\Debug\Server_Client UDP.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\Server_Client UDP\Server_Client UDP\obj\Debug\Server_Client UDP.exe
+C:\Users\serge\source\repos\Server_Client UDP\Server_Client UDP\obj\Debug\Server_Client UDP.pdb
+G:\NET CORE Librarys\OldSource\source\repos\Server_Client UDP\Server_Client UDP\bin\Debug\Server_Client UDP.exe.config
+G:\NET CORE Librarys\OldSource\source\repos\Server_Client UDP\Server_Client UDP\bin\Debug\Server_Client UDP.exe
+G:\NET CORE Librarys\OldSource\source\repos\Server_Client UDP\Server_Client UDP\bin\Debug\Server_Client UDP.pdb
+G:\NET CORE Librarys\OldSource\source\repos\Server_Client UDP\Server_Client UDP\obj\Debug\Server_Client UDP.csprojAssemblyReference.cache
+G:\NET CORE Librarys\OldSource\source\repos\Server_Client UDP\Server_Client UDP\obj\Debug\Server_Client_UDP.Server_Main.resources
+G:\NET CORE Librarys\OldSource\source\repos\Server_Client UDP\Server_Client UDP\obj\Debug\Server_Client_UDP.Properties.Resources.resources
+G:\NET CORE Librarys\OldSource\source\repos\Server_Client UDP\Server_Client UDP\obj\Debug\Server_Client UDP.csproj.GenerateResource.cache
+G:\NET CORE Librarys\OldSource\source\repos\Server_Client UDP\Server_Client UDP\obj\Debug\Server_Client UDP.csproj.CoreCompileInputs.cache
+G:\NET CORE Librarys\OldSource\source\repos\Server_Client UDP\Server_Client UDP\obj\Debug\Server_Client UDP.exe
+G:\NET CORE Librarys\OldSource\source\repos\Server_Client UDP\Server_Client UDP\obj\Debug\Server_Client UDP.pdb
